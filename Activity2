@@ -1,0 +1,18 @@
+<! DOCTYPE html>
+<html> 
+
+<head>
+<meta charset="UTF-8">
+<title> Curso Tecnico Informatica </title>
+
+</head>
+
+<body>
+Fcap
+</body>
+</html>
+<video controls>
+
+<source src="C:\Users\natal\OneDrive\Documents\Tecnico(Inf)\Programação web 2021.mp4" type="video/mp4">
+<p> seu navegador não suporta o elemento video da HTML5</p>
+<p> texto
